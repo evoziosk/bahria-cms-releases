@@ -9,7 +9,7 @@ The app is built primarily for Android, with web/PWA support for browser access 
 [Download the latest Android APK](https://github.com/evoziosk/bahria-cms-releases/releases/latest/download/bahria-cms.apk)
 
 ## Web App / PWA
-[Web app link] (https://bahria-cms.pages.dev)
+[Web app link](https://bahria-cms.pages.dev)
 
 ## What the App Does
 
