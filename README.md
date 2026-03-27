@@ -8,6 +8,9 @@ The app is built primarily for Android, with web/PWA support for browser access 
 
 [Download the latest Android APK](https://github.com/evoziosk/bahria-cms-releases/releases/latest/download/bahria-cms.apk)
 
+## Web App / PWA
+[Web app link] (https://bahria-cms.pages.dev)
+
 ## What the App Does
 
 - Connects to Bahria University CMS and LMS in one app
@@ -24,28 +27,18 @@ The app is built primarily for Android, with web/PWA support for browser access 
 
 ## Screenshots
 
-Add your screenshots to a `screenshots/` folder in the releases repo, then keep or rename the image paths below.
-
 <p align="center">
-  <img src="./screenshots/login.png" width="220" alt="Login screen" />
-  <img src="./screenshots/assignments.png" width="220" alt="Assignments screen" />
-  <img src="./screenshots/grades.png" width="220" alt="Grades screen" />
+  <img src="./screenshots/8.png" width="220" alt="Assignments Screen" />
+  <img src="./screenshots/7.png" width="220" alt="Assignments screen - Calender View" />
+  <img src="./screenshots/6.png" width="220" alt="Lecture Notes" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/attendance.png" width="220" alt="Attendance screen" />
-  <img src="./screenshots/lecture-notes.png" width="220" alt="Lecture notes screen" />
-  <img src="./screenshots/profile.png" width="220" alt="Profile screen" />
+  <img src="./screenshots/5.png" width="220" alt="Attendance screen" />
+  <img src="./screenshots/4.png" width="220" alt="Attendance Detail Screen" />
+  <img src="./screenshots/3.png" width="220" alt="Grades screen" />
+  <img src="./screenshots/1.png" width="220" alt="Push Notifications Screen" />
 </p>
-
-Suggested screenshots:
-
-- Login
-- Assignments list or calendar view
-- Grades / CGPA analytics
-- Attendance
-- Lecture notes
-- Profile or exam seating
 
 ## Tech Stack
 
