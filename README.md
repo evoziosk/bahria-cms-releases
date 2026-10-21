@@ -40,6 +40,21 @@ The app is built primarily for Android, with web/PWA support for browser access 
   <img src="./screenshots/1.png" width="220" height="440" alt="Push Notifications Screen" />
 </p>
 
+## Web App Screenshots
+
+The web app ([bahria-cms.pages.dev](https://bahria-cms.pages.dev)) uses a frosted-glass look by default, which can be switched off in Settings. Screenshots below use sample data.
+
+<p align="center">
+  <img src="./screenshots/web/glance.png" width="220" height="440" alt="Web app - At a Glance with upcoming exams" />
+  <img src="./screenshots/web/assignments.png" width="220" height="440" alt="Web app - Assignments" />
+  <img src="./screenshots/web/attendance.png" width="220" height="440" alt="Web app - Attendance" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/web/grades.png" width="220" height="440" alt="Web app - Grades" />
+  <img src="./screenshots/web/timetable.png" width="220" height="440" alt="Web app - Timetable" />
+</p>
+
 ## Tech Stack
 
 - Flutter and Dart
